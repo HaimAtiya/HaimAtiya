@@ -2,7 +2,7 @@
 - 📍  I'm from Tel Aviv, Israel.
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning computer science student at the Holon Institute of Technology.
-- 📫 You can reach me at jhho1000 <at> gmail.com
+- 📫 You can reach me at haim.attiya (at) gmail.com
 - 🔗 Or visit my personal website at attiya.net
 
 <!---
